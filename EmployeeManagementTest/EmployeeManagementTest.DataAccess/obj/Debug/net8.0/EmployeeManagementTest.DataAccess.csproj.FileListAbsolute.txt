@@ -1,0 +1,12 @@
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\bin\Debug\net8.0\EmployeeManagementTest.DataAccess.deps.json
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\bin\Debug\net8.0\EmployeeManagementTest.DataAccess.dll
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\bin\Debug\net8.0\EmployeeManagementTest.DataAccess.pdb
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\obj\Debug\net8.0\EmployeeManagementTest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\obj\Debug\net8.0\EmployeeManagementTest.DataAccess.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\obj\Debug\net8.0\EmployeeManagementTest.DataAccess.AssemblyInfo.cs
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\obj\Debug\net8.0\EmployeeManagementTest.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\obj\Debug\net8.0\EmployeeManagementTest.DataAccess.sourcelink.json
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\obj\Debug\net8.0\EmployeeManagementTest.DataAccess.dll
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\obj\Debug\net8.0\refint\EmployeeManagementTest.DataAccess.dll
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\obj\Debug\net8.0\EmployeeManagementTest.DataAccess.pdb
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.DataAccess\obj\Debug\net8.0\ref\EmployeeManagementTest.DataAccess.dll

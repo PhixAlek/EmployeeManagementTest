@@ -1,0 +1,35 @@
+﻿@model EmployeeManagementTest.Business.Models.Employee
+
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<div class="client-details">
+    <h2>Employee Details</h2>
+
+    <div class="client-info-group">
+        <div class="client-info">
+            <label>ID:</label>
+            <span>@Model.Id</span>
+        </div>
+        <div class="client-info">
+            <label>Name:</label>
+            <span>@Model.EmployeeName</span>
+        </div>
+    </div>
+
+    <div class="client-info-group">
+        <div class="client-info">
+            <label>Salary:</label>
+            <span>$@Model.Salary</span>
+        </div>
+        <div class="client-info">
+            <label>Age:</label>
+            <span>@Model.EmployeeAge</span>
+        </div>
+    </div>
+
+    <div class="btn-container">
+        <a href="/" class="btn">Back</a>
+    </div>
+</div>

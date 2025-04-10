@@ -1,0 +1,16 @@
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\bin\Debug\net8.0\EmployeeManagementTest.Business.deps.json
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\bin\Debug\net8.0\EmployeeManagementTest.Business.dll
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\bin\Debug\net8.0\EmployeeManagementTest.Business.pdb
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\bin\Debug\net8.0\EmployeeManagementTest.DataAccess.dll
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\bin\Debug\net8.0\EmployeeManagementTest.DataAccess.pdb
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\obj\Debug\net8.0\EmployeeManagementTest.Business.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\obj\Debug\net8.0\EmployeeManagementTest.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\obj\Debug\net8.0\EmployeeManagementTest.Business.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\obj\Debug\net8.0\EmployeeManagementTest.Business.AssemblyInfo.cs
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\obj\Debug\net8.0\EmployeeManagementTest.Business.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\obj\Debug\net8.0\EmployeeManagementTest.Business.sourcelink.json
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\obj\Debug\net8.0\Employee.02DE338B.Up2Date
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\obj\Debug\net8.0\EmployeeManagementTest.Business.dll
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\obj\Debug\net8.0\refint\EmployeeManagementTest.Business.dll
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\obj\Debug\net8.0\EmployeeManagementTest.Business.pdb
+C:\Users\migue\Desktop\Amaris Test\EmployeeManagementTest\EmployeeManagementTest\EmployeeManagementTest.Business\obj\Debug\net8.0\ref\EmployeeManagementTest.Business.dll
